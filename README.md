@@ -1,8 +1,9 @@
 # Caixa Eletrônico
-Este projeto descreve a estrutura e funcionamento do sistema de caixa eletrônico implementado em Python.
 
-VISÃO GERAL
-Este documento tem como finalidade descrever as etapas do desenvolvimento do projeto.
+
+## VISÃO GERAL
+Este projeto descreve a estrutura e funcionamento do sistema de caixa eletrônico implementado em Python, assim como,
+este documento tem como finalidade descrever as etapas do desenvolvimento do projeto.
 
 ## 1. Introdução
 Este documento descreve a estrutura e funcionamento do sistema de caixa eletrônico implementado em Python. O sistema permite operações básicas como autenticação, consulta de saldo, depósito e saque, mantendo um histórico de transações.
